@@ -1,5 +1,14 @@
 # Gallery
-### Harli Bott
 
+![Gallery Interface](https://lh3.googleusercontent.com/ofUnGyH5pm__ydyigaiv3KPQQHX0ZUV_Hh7Aaoe0h54sv_qYNgY2dPdgSy3m0819kE4DRLOCTwRXWVdd43oC5sm0_jROmIcj3VTdFqPSqqdg_pr_oIPdlMd_PsQXU6rb9GlrM8XSTUHcz7RLTCV7JZ9Jh9XejVKe4KdIJ_XIrKgdyHJFhYraomXaWvKC5Z6mDA9GyiR7j_7gxDf1ScF_BPu5hS46Ky7bFa14ZrRRVWfUUTja-kXrIS__OCVBl2DVDwCLSe0sJxT_9sgY3D30BdBy3i3WyXBnKq8B96mb9eqb91zP3RSajfOTy9nHJYy8zlrnR9dVZLDfMJlcl7fuRpR7FfVMrB3xzBPIwRH7HuaxVfZpMXmLaAwM_JFU45ofbNhHsO8PJ4hVBOX_t5mxZRMyvI1bAmWFyLLbH-4iOo426zr5NNPislUN2XRVQVlSycftShqSKxjcV9aTqJP3JKlLoyN7bU2jHUfEaalC3CloFcwu2g5cdzW4Mp2MuhLVDswAuu2hbMgaZiOpdRpe5KfNT6Xz20tof-h1wwUiQxc6OhvqTMYhoBGzH4ILa7ewH7QMkhVoYeF3Z6_uvB61DfQ2evS14uLC1_yuUGAJLfK0I7pcDeXbUuj-4E-rif7wP1raBYYmdK4sqbs51PBIY33d=w523-h520-no)
+
+## Introduction & Tasks
 Implements a GUI interface that uses the iTunes API to display images. 
 This uses the iTunes API to recieve album artwork and images pertaining to the text searched. It then uses JSON parsing to obtain the images and javafx to display it to the screen. 
+
+## Technical Resources
+* JavaFX
+* Java
+* JSON
+* API
+
